@@ -1,0 +1,32 @@
+.cont {
+    display: flex;
+  }
+
+.cont1, .cont2, .cont3 {
+    width: 300px;
+    height: 200px;
+    border: 5px solid rgb(224, 25, 224);    
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+      
+
+}
+
+.cont1 {
+    color: lightblue;
+   
+}
+
+.cont2 {
+    color: red;
+}
+
+.cont3 {
+    color: orange
+}

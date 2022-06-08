@@ -1,0 +1,38 @@
+.cont {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.cont1, .cont2, .cont3 {
+  width: 300px;
+  height: 200px;
+  border: 5px solid #e019e0;
+  border-radius: 10px;
+  font-size: 30px;
+  font-weight: 700;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.cont1 {
+  color: lightblue;
+}
+
+.cont2 {
+  color: red;
+}
+
+.cont3 {
+  color: orange;
+}
+/*# sourceMappingURL=main.css.map */
